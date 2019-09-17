@@ -11,4 +11,5 @@ Lab_1: Здобуття навиків роботи з системою верс
 8. Будь-які зміни.
 9. Командою `git pull` синхронізую локальну версію з Web.
 10. Зображення:
+
 ![image](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/Lab_1/image.png)
