@@ -3,4 +3,5 @@ Lab_2: Автоматизація. Знайомство з CI/CD.
 
 1. Створюю папку lab_2 з README.md файлом. 
 2. За допомогою пакетного менеджера PIP інсталюю pipenv за допомогою команди `pip install pipenv` та створюю ізольоване середовище командою `pipenv --python 3.7`. Запускаю середовище командою `pipenv shell`.
+3. У ізольованому середовищі встановлюю бібліотеки requests і ntplib командами `pipenv install requests` та `pipenv install ntplib`. 
 
