@@ -13,3 +13,4 @@ Lab_2: Автоматизація. Знайомство з CI/CD.
 
 9. Пишу тест для перевірки правильності виконання функції:
 ![image](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/lab_2/img/img2.png)
+10. Перенаправляю результат виконання тестів у файл result.txt та результат виконання програми у кінець цього ж файлу за допомогою команд `pytest tests/tests.py > results.txt` та `python app.py >> results.txt`.
