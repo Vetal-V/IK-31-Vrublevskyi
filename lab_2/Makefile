@@ -4,7 +4,7 @@ all: install test run deploy
 
 install:
 	@echo "Installing pipenv and dependencies."
-    pip install pipenv
+	pip install pipenv
 	pipenv --python 3.7
 	pipenv install requests
 	pipenv install ntplib
