@@ -1,5 +1,5 @@
 import unittest
-from app import main
+from app import main, home_work
 
 
 class TestClass(unittest.TestCase):
@@ -17,10 +17,11 @@ class TestClass(unittest.TestCase):
         self.assertFalse(main())
 
     def test_no_date_in_response(self):
-        # Перевіряємо що у відповіді відсутнє поле дата (тобто передана направильна URL)
+        # Перевіряємо що у відповіді відсутнє поле дата (тобто передана неправильна URL)
         with self.assertRaises(Exception):
             main(self.ip_url)
 
     def test_home_work(self):
-        # Ваш захист
-        self.assertTrue(True)
+        # Мій захист
+        self.assertEqual("Доброго дня!", home_work("01:01:01 PM"))
+        self.assertEqual("Доброї ночі!", home_work("01:01:01 AM"))

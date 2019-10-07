@@ -9,5 +9,7 @@ Lab_2: Автоматизація. Знайомство з CI/CD.
 6. Встановлюю бібліотеку pytest за допомогою команди `pipenv install pytest`.
 7. Копіюю приклади тестів та виконую їх командою `pytest tests/tests.py`. Тести виконалися успішно.
 8. Дописую функцію, яка перевіряє час доби AM/PM та відповідно друкує Доброго дня/ночі:
- 
-![image](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/Lab_2/img/img1.png)
+![image](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/lab_2/img/img1.png)
+
+9. Пишу тест для перевірки правильності виконання функції:
+![image](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/lab_2/img/img2.png)
