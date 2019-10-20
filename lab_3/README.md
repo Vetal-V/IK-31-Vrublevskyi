@@ -15,6 +15,6 @@ Lab_3: Вступ до моніторингу.
 9. Заповнюю файл `main/urls.py` згідно зразка, щоб поєднати функції з реальними URL шляхами, за якими будуть доступны веб-сторінки.
 10. Запускаю сервер, щоб переконатися, що сторінки доступні:
 ![image](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/lab_3/img/3.png)
-
 ![image](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/lab_3/img/4.png)
-Виконую коміт робочого Django сайту.
+Виконую коміт робочого Django сайту. 
+11.
