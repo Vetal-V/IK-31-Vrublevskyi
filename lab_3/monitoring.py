@@ -19,7 +19,7 @@ def main(url):
         r = requests.get(url)
         r.raise_for_status()
     except HTTPError as http_err:
-        logging.warning("Сервер недоступний. Будь ласка, перезапустіть сервер ще раз. Помилка: %s", http_err)
+        logging.error("Сервер недоступний. Будь ласка, перезапустіть сервер ще раз. Помилка: %s", http_err)
     except Exception as err:
         logging.error("Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: %s", err)
     else:
