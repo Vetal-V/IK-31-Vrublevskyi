@@ -7,10 +7,7 @@ verify_ssl = true
 
 [packages]
 django = "*"
-datetime = "*"
 requests = "*"
-json = "*"
-logging = "*"
 
 [requires]
 python_version = "3.7"
