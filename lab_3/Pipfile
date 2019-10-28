@@ -7,9 +7,6 @@ verify_ssl = true
 
 [packages]
 django = "*"
-django-jsonresponse = "*"
-django-http = "*"
-django-shortcuts = "*"
 datetime = "*"
 requests = "*"
 json = "*"
