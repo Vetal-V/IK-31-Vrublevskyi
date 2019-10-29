@@ -14,7 +14,7 @@ def health(request):
     response = {'date': datetime.today(),
                 'current_page': request.path,
                 'server_info': {
-                    'system': os.environ["OS"],
+                    'system': platform.system(),
                     'version': platform.version(),
                     'release': platform.release(),
                     'network name': platform.node(),
