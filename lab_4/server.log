@@ -1,0 +1,441 @@
+INFO 2019-10-21 11:38:43,492 root : Сервер доступний. Час на сервері: 2019-10-21T11:38:43.491
+INFO 2019-10-21 11:38:43,492 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 11:38:43,492 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 11:38:43,492 root : Ключ: date, Значення: 2019-10-21T11:38:43.491
+INFO 2019-10-21 11:38:43,492 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 11:38:43,492 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 11:38:43,492 root : Ключ: client_info, Значення: python-requests/2.22.0
+ERROR 2019-10-21 19:05:59,132 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EBAA88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+INFO 2019-10-21 19:06:59,253 root : Сервер доступний. Час на сервері: 2019-10-21T19:06:59.252
+INFO 2019-10-21 19:06:59,253 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:06:59,253 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:06:59,253 root : Ключ: date, Значення: 2019-10-21T19:06:59.252
+INFO 2019-10-21 19:06:59,253 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:06:59,253 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:06:59,253 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:07:59,276 root : Сервер доступний. Час на сервері: 2019-10-21T19:07:59.274
+INFO 2019-10-21 19:07:59,276 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:07:59,277 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:07:59,277 root : Ключ: date, Значення: 2019-10-21T19:07:59.274
+INFO 2019-10-21 19:07:59,277 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:07:59,277 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:07:59,277 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:08:59,284 root : Сервер доступний. Час на сервері: 2019-10-21T19:08:59.283
+INFO 2019-10-21 19:08:59,284 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:08:59,284 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:08:59,284 root : Ключ: date, Значення: 2019-10-21T19:08:59.283
+INFO 2019-10-21 19:08:59,284 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:08:59,284 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:08:59,284 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:09:59,293 root : Сервер доступний. Час на сервері: 2019-10-21T19:09:59.292
+INFO 2019-10-21 19:09:59,293 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:09:59,293 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:09:59,294 root : Ключ: date, Значення: 2019-10-21T19:09:59.292
+INFO 2019-10-21 19:09:59,294 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:09:59,294 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:09:59,294 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:10:59,305 root : Сервер доступний. Час на сервері: 2019-10-21T19:10:59.304
+INFO 2019-10-21 19:10:59,306 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:10:59,306 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:10:59,306 root : Ключ: date, Значення: 2019-10-21T19:10:59.304
+INFO 2019-10-21 19:10:59,306 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:10:59,306 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:10:59,306 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:11:59,317 root : Сервер доступний. Час на сервері: 2019-10-21T19:11:59.316
+INFO 2019-10-21 19:11:59,317 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:11:59,317 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:11:59,317 root : Ключ: date, Значення: 2019-10-21T19:11:59.316
+INFO 2019-10-21 19:11:59,317 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:11:59,317 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:11:59,317 root : Ключ: client_info, Значення: python-requests/2.22.0
+ERROR 2019-10-21 19:13:03,327 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8E9A0C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:14:07,335 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EB6148>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:15:11,347 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F000C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:16:15,363 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EB6508>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:17:19,384 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8E9A948>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:18:23,393 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EA6DC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:19:27,410 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EBA988>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:20:31,418 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F09048>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:21:35,432 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F09F88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:22:39,440 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F120C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:23:43,453 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F09288>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:24:47,463 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EA6DC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:25:51,471 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8E9AA48>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:26:55,479 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EBA508>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:27:59,487 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EB6208>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:29:03,499 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F05188>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:30:07,511 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F16388>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:31:11,524 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EB6488>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:32:15,534 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8E9A948>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:33:19,548 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EA6F48>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:34:23,561 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8E61D88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:35:27,577 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F121C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:36:31,586 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F16188>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:37:35,603 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F09448>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:38:39,623 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F12C88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:39:43,638 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EA6488>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:40:47,649 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8E9AE88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:41:51,661 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F0D2C8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:42:55,671 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F16308>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:43:59,683 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F05BC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:45:03,698 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F15448>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:46:07,707 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F0DA48>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:47:11,718 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EBAA48>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:48:15,731 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8E9AD08>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:49:19,748 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8EA6708>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:50:23,765 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F09AC8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:51:27,783 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F12E88>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+ERROR 2019-10-21 19:52:31,797 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201F8F1C648>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+INFO 2019-10-21 19:53:31,845 root : Сервер доступний. Час на сервері: 2019-10-21T19:53:31.840
+INFO 2019-10-21 19:53:31,845 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:53:31,846 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:53:31,846 root : Ключ: date, Значення: 2019-10-21T19:53:31.840
+INFO 2019-10-21 19:53:31,846 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:53:31,846 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:53:31,846 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:54:31,884 root : Сервер доступний. Час на сервері: 2019-10-21T19:54:31.879
+INFO 2019-10-21 19:54:31,884 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:54:31,884 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:54:31,885 root : Ключ: date, Значення: 2019-10-21T19:54:31.879
+INFO 2019-10-21 19:54:31,885 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:54:31,885 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:54:31,885 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:55:31,908 root : Сервер доступний. Час на сервері: 2019-10-21T19:55:31.905
+INFO 2019-10-21 19:55:31,908 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:55:31,908 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:55:31,908 root : Ключ: date, Значення: 2019-10-21T19:55:31.905
+INFO 2019-10-21 19:55:31,908 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:55:31,908 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:55:31,908 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:56:31,938 root : Сервер доступний. Час на сервері: 2019-10-21T19:56:31.934
+INFO 2019-10-21 19:56:31,938 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:56:31,938 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:56:31,939 root : Ключ: date, Значення: 2019-10-21T19:56:31.934
+INFO 2019-10-21 19:56:31,939 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:56:31,939 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:56:31,939 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:57:31,970 root : Сервер доступний. Час на сервері: 2019-10-21T19:57:31.966
+INFO 2019-10-21 19:57:31,971 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:57:31,971 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:57:31,971 root : Ключ: date, Значення: 2019-10-21T19:57:31.966
+INFO 2019-10-21 19:57:31,972 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:57:31,972 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:57:31,972 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:58:31,993 root : Сервер доступний. Час на сервері: 2019-10-21T19:58:31.990
+INFO 2019-10-21 19:58:31,993 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:58:31,994 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:58:31,994 root : Ключ: date, Значення: 2019-10-21T19:58:31.990
+INFO 2019-10-21 19:58:31,994 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:58:31,994 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:58:31,994 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 19:59:32,025 root : Сервер доступний. Час на сервері: 2019-10-21T19:59:32.019
+INFO 2019-10-21 19:59:32,026 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 19:59:32,026 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 19:59:32,026 root : Ключ: date, Значення: 2019-10-21T19:59:32.019
+INFO 2019-10-21 19:59:32,027 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 19:59:32,027 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 19:59:32,027 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:00:32,066 root : Сервер доступний. Час на сервері: 2019-10-21T20:00:32.061
+INFO 2019-10-21 20:00:32,066 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:00:32,067 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:00:32,067 root : Ключ: date, Значення: 2019-10-21T20:00:32.061
+INFO 2019-10-21 20:00:32,067 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:00:32,067 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:00:32,068 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:01:32,097 root : Сервер доступний. Час на сервері: 2019-10-21T20:01:32.093
+INFO 2019-10-21 20:01:32,098 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:01:32,098 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:01:32,098 root : Ключ: date, Значення: 2019-10-21T20:01:32.093
+INFO 2019-10-21 20:01:32,099 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:01:32,099 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:01:32,099 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:02:32,126 root : Сервер доступний. Час на сервері: 2019-10-21T20:02:32.123
+INFO 2019-10-21 20:02:32,126 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:02:32,127 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:02:32,127 root : Ключ: date, Значення: 2019-10-21T20:02:32.123
+INFO 2019-10-21 20:02:32,127 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:02:32,127 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:02:32,128 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:03:32,147 root : Сервер доступний. Час на сервері: 2019-10-21T20:03:32.144
+INFO 2019-10-21 20:03:32,147 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:03:32,147 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:03:32,148 root : Ключ: date, Значення: 2019-10-21T20:03:32.144
+INFO 2019-10-21 20:03:32,148 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:03:32,148 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:03:32,148 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:04:32,168 root : Сервер доступний. Час на сервері: 2019-10-21T20:04:32.165
+INFO 2019-10-21 20:04:32,168 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:04:32,168 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:04:32,169 root : Ключ: date, Значення: 2019-10-21T20:04:32.165
+INFO 2019-10-21 20:04:32,169 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:04:32,169 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:04:32,169 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:05:32,198 root : Сервер доступний. Час на сервері: 2019-10-21T20:05:32.193
+INFO 2019-10-21 20:05:32,198 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:05:32,199 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:05:32,199 root : Ключ: date, Значення: 2019-10-21T20:05:32.193
+INFO 2019-10-21 20:05:32,199 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:05:32,199 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:05:32,199 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:06:32,219 root : Сервер доступний. Час на сервері: 2019-10-21T20:06:32.216
+INFO 2019-10-21 20:06:32,219 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:06:32,219 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:06:32,220 root : Ключ: date, Значення: 2019-10-21T20:06:32.216
+INFO 2019-10-21 20:06:32,220 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:06:32,220 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:06:32,220 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:07:32,239 root : Сервер доступний. Час на сервері: 2019-10-21T20:07:32.236
+INFO 2019-10-21 20:07:32,239 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:07:32,240 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:07:32,240 root : Ключ: date, Значення: 2019-10-21T20:07:32.236
+INFO 2019-10-21 20:07:32,240 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:07:32,240 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:07:32,240 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:08:32,273 root : Сервер доступний. Час на сервері: 2019-10-21T20:08:32.266
+INFO 2019-10-21 20:08:32,274 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:08:32,274 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:08:32,274 root : Ключ: date, Значення: 2019-10-21T20:08:32.266
+INFO 2019-10-21 20:08:32,275 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:08:32,275 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:08:32,275 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:09:32,306 root : Сервер доступний. Час на сервері: 2019-10-21T20:09:32.302
+INFO 2019-10-21 20:09:32,306 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:09:32,307 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:09:32,307 root : Ключ: date, Значення: 2019-10-21T20:09:32.302
+INFO 2019-10-21 20:09:32,307 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:09:32,308 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:09:32,308 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:10:32,338 root : Сервер доступний. Час на сервері: 2019-10-21T20:10:32.333
+INFO 2019-10-21 20:10:32,338 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:10:32,338 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:10:32,338 root : Ключ: date, Значення: 2019-10-21T20:10:32.333
+INFO 2019-10-21 20:10:32,339 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:10:32,339 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:10:32,339 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:11:32,370 root : Сервер доступний. Час на сервері: 2019-10-21T20:11:32.366
+INFO 2019-10-21 20:11:32,371 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:11:32,371 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:11:32,372 root : Ключ: date, Значення: 2019-10-21T20:11:32.366
+INFO 2019-10-21 20:11:32,372 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:11:32,372 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:11:32,372 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:12:32,393 root : Сервер доступний. Час на сервері: 2019-10-21T20:12:32.389
+INFO 2019-10-21 20:12:32,393 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:12:32,393 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:12:32,393 root : Ключ: date, Значення: 2019-10-21T20:12:32.389
+INFO 2019-10-21 20:12:32,393 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:12:32,393 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:12:32,395 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:13:32,423 root : Сервер доступний. Час на сервері: 2019-10-21T20:13:32.419
+INFO 2019-10-21 20:13:32,423 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:13:32,423 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:13:32,424 root : Ключ: date, Значення: 2019-10-21T20:13:32.419
+INFO 2019-10-21 20:13:32,424 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:13:32,424 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:13:32,424 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:14:32,454 root : Сервер доступний. Час на сервері: 2019-10-21T20:14:32.450
+INFO 2019-10-21 20:14:32,454 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:14:32,455 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:14:32,455 root : Ключ: date, Значення: 2019-10-21T20:14:32.450
+INFO 2019-10-21 20:14:32,455 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:14:32,455 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:14:32,455 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:15:32,500 root : Сервер доступний. Час на сервері: 2019-10-21T20:15:32.496
+INFO 2019-10-21 20:15:32,501 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:15:32,501 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:15:32,501 root : Ключ: date, Значення: 2019-10-21T20:15:32.496
+INFO 2019-10-21 20:15:32,501 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:15:32,502 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:15:32,502 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:16:32,523 root : Сервер доступний. Час на сервері: 2019-10-21T20:16:32.520
+INFO 2019-10-21 20:16:32,524 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:16:32,524 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:16:32,524 root : Ключ: date, Значення: 2019-10-21T20:16:32.520
+INFO 2019-10-21 20:16:32,524 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:16:32,524 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:16:32,525 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:17:32,557 root : Сервер доступний. Час на сервері: 2019-10-21T20:17:32.551
+INFO 2019-10-21 20:17:32,558 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:17:32,558 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:17:32,558 root : Ключ: date, Значення: 2019-10-21T20:17:32.551
+INFO 2019-10-21 20:17:32,558 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:17:32,558 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:17:32,559 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:18:32,645 root : Сервер доступний. Час на сервері: 2019-10-21T20:18:32.642
+INFO 2019-10-21 20:18:32,646 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:18:32,646 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:18:32,646 root : Ключ: date, Значення: 2019-10-21T20:18:32.642
+INFO 2019-10-21 20:18:32,646 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:18:32,647 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:18:32,647 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:19:32,667 root : Сервер доступний. Час на сервері: 2019-10-21T20:19:32.664
+INFO 2019-10-21 20:19:32,667 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:19:32,667 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:19:32,668 root : Ключ: date, Значення: 2019-10-21T20:19:32.664
+INFO 2019-10-21 20:19:32,668 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:19:32,668 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:19:32,668 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:20:32,697 root : Сервер доступний. Час на сервері: 2019-10-21T20:20:32.693
+INFO 2019-10-21 20:20:32,698 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:20:32,698 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:20:32,698 root : Ключ: date, Значення: 2019-10-21T20:20:32.693
+INFO 2019-10-21 20:20:32,698 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:20:32,699 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:20:32,699 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:21:32,729 root : Сервер доступний. Час на сервері: 2019-10-21T20:21:32.724
+INFO 2019-10-21 20:21:32,729 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:21:32,730 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:21:32,730 root : Ключ: date, Значення: 2019-10-21T20:21:32.724
+INFO 2019-10-21 20:21:32,730 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:21:32,730 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:21:32,730 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:22:32,761 root : Сервер доступний. Час на сервері: 2019-10-21T20:22:32.757
+INFO 2019-10-21 20:22:32,762 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:22:32,762 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:22:32,762 root : Ключ: date, Значення: 2019-10-21T20:22:32.757
+INFO 2019-10-21 20:22:32,762 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:22:32,763 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:22:32,763 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:23:32,792 root : Сервер доступний. Час на сервері: 2019-10-21T20:23:32.788
+INFO 2019-10-21 20:23:32,792 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:23:32,793 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:23:32,793 root : Ключ: date, Значення: 2019-10-21T20:23:32.788
+INFO 2019-10-21 20:23:32,793 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:23:32,793 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:23:32,793 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:24:32,824 root : Сервер доступний. Час на сервері: 2019-10-21T20:24:32.819
+INFO 2019-10-21 20:24:32,824 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:24:32,825 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:24:32,825 root : Ключ: date, Значення: 2019-10-21T20:24:32.819
+INFO 2019-10-21 20:24:32,826 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:24:32,826 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:24:32,827 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:25:32,856 root : Сервер доступний. Час на сервері: 2019-10-21T20:25:32.852
+INFO 2019-10-21 20:25:32,857 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:25:32,857 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:25:32,858 root : Ключ: date, Значення: 2019-10-21T20:25:32.852
+INFO 2019-10-21 20:25:32,858 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:25:32,858 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:25:32,858 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:26:32,886 root : Сервер доступний. Час на сервері: 2019-10-21T20:26:32.883
+INFO 2019-10-21 20:26:32,887 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:26:32,887 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:26:32,887 root : Ключ: date, Значення: 2019-10-21T20:26:32.883
+INFO 2019-10-21 20:26:32,887 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:26:32,887 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:26:32,887 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:27:32,907 root : Сервер доступний. Час на сервері: 2019-10-21T20:27:32.904
+INFO 2019-10-21 20:27:32,908 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:27:32,908 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:27:32,908 root : Ключ: date, Значення: 2019-10-21T20:27:32.904
+INFO 2019-10-21 20:27:32,908 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:27:32,908 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:27:32,908 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:28:32,936 root : Сервер доступний. Час на сервері: 2019-10-21T20:28:32.932
+INFO 2019-10-21 20:28:32,936 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:28:32,937 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:28:32,937 root : Ключ: date, Значення: 2019-10-21T20:28:32.932
+INFO 2019-10-21 20:28:32,937 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:28:32,937 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:28:32,937 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-21 20:29:32,973 root : Сервер доступний. Час на сервері: 2019-10-21T20:29:32.967
+INFO 2019-10-21 20:29:32,974 root : Запитувана сторінка: : /health/
+INFO 2019-10-21 20:29:32,974 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-21 20:29:32,974 root : Ключ: date, Значення: 2019-10-21T20:29:32.967
+INFO 2019-10-21 20:29:32,975 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-21 20:29:32,975 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
+INFO 2019-10-21 20:29:32,976 root : Ключ: client_info, Значення: python-requests/2.22.0
+ERROR 2019-10-29 22:32:53,117 root : РЎРµСЂРІРµСЂ РЅРµРґРѕСЃС‚СѓРїРЅРёР№. Р‘СѓРґСЊ Р»Р°СЃРєР°, Р·Р°РїСѓСЃС‚С–С‚СЊ СЃРµСЂРІРµСЂ С‰Рµ СЂР°Р·. РџРѕРјРёР»РєР°: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101ea922d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-10-29 22:33:53,179 root : РЎРµСЂРІРµСЂ РЅРµРґРѕСЃС‚СѓРїРЅРёР№. Р‘СѓРґСЊ Р»Р°СЃРєР°, Р·Р°РїСѓСЃС‚С–С‚СЊ СЃРµСЂРІРµСЂ С‰Рµ СЂР°Р·. РџРѕРјРёР»РєР°: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101f3700d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-10-29 22:34:53,240 root : РЎРµСЂРІРµСЂ РЅРµРґРѕСЃС‚СѓРїРЅРёР№. Р‘СѓРґСЊ Р»Р°СЃРєР°, Р·Р°РїСѓСЃС‚С–С‚СЊ СЃРµСЂРІРµСЂ С‰Рµ СЂР°Р·. РџРѕРјРёР»РєР°: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101f370e10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2019-10-29 22:35:53,385 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:35:53.331
+INFO 2019-10-29 22:35:53,385 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:35:53,386 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:35:53.331
+INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:36:53,509 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:36:53.464
+INFO 2019-10-29 22:36:53,509 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:36:53,509 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:36:53.464
+INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:37:53,617 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:37:53.574
+INFO 2019-10-29 22:37:53,617 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:37:53,617 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:37:53.574
+INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:38:53,725 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:38:53.682
+INFO 2019-10-29 22:38:53,725 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:38:53,725 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:38:53.682
+INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:39:53,846 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:39:53.802
+INFO 2019-10-29 22:39:53,847 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:39:53,847 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:39:53.802
+INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:40:53,961 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:40:53.919
+INFO 2019-10-29 22:40:53,961 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:40:53,962 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:40:53.919
+INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:41:54,081 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:41:54.039
+INFO 2019-10-29 22:41:54,081 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:41:54,081 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:41:54,081 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:41:54.039
+INFO 2019-10-29 22:41:54,082 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:41:54,082 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:41:54,082 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:42:54,194 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:42:54.147
+INFO 2019-10-29 22:42:54,194 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:42:54,194 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:42:54.147
+INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:43:54,309 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:43:54.265
+INFO 2019-10-29 22:43:54,309 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:43:54,309 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:43:54,309 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:43:54.265
+INFO 2019-10-29 22:43:54,310 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:43:54,310 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:43:54,310 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:44:54,425 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:44:54.383
+INFO 2019-10-29 22:44:54,425 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:44:54,425 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:44:54.383
+INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:45:54,541 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:45:54.497
+INFO 2019-10-29 22:45:54,541 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:45:54,541 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:45:54.497
+INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:46:54,657 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:46:54.612
+INFO 2019-10-29 22:46:54,657 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:46:54,657 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:46:54.612
+INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+INFO 2019-10-29 22:47:54,765 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:47:54.722
+INFO 2019-10-29 22:47:54,765 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
+INFO 2019-10-29 22:47:54,765 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
+INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:47:54.722
+INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
+INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
