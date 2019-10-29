@@ -345,97 +345,96 @@ INFO 2019-10-21 20:29:32,974 root : Ключ: date, Значення: 2019-10-21T20:29:32.96
 INFO 2019-10-21 20:29:32,975 root : Ключ: current_page, Значення: /health/
 INFO 2019-10-21 20:29:32,975 root : Ключ: server_info, Значення: {'system': 'Windows_NT', 'version': '10.0.18362', 'release': '10', 'network name': 'DESKTOP-38O05I4', 'machine': 'AMD64', 'processor': 'Intel64 Family 6 Model 158 Stepping 10, GenuineIntel'}
 INFO 2019-10-21 20:29:32,976 root : Ключ: client_info, Значення: python-requests/2.22.0
-ERROR 2019-10-29 22:32:53,117 root : РЎРµСЂРІРµСЂ РЅРµРґРѕСЃС‚СѓРїРЅРёР№. Р‘СѓРґСЊ Р»Р°СЃРєР°, Р·Р°РїСѓСЃС‚С–С‚СЊ СЃРµСЂРІРµСЂ С‰Рµ СЂР°Р·. РџРѕРјРёР»РєР°: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101ea922d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
-ERROR 2019-10-29 22:33:53,179 root : РЎРµСЂРІРµСЂ РЅРµРґРѕСЃС‚СѓРїРЅРёР№. Р‘СѓРґСЊ Р»Р°СЃРєР°, Р·Р°РїСѓСЃС‚С–С‚СЊ СЃРµСЂРІРµСЂ С‰Рµ СЂР°Р·. РџРѕРјРёР»РєР°: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101f3700d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
-ERROR 2019-10-29 22:34:53,240 root : РЎРµСЂРІРµСЂ РЅРµРґРѕСЃС‚СѓРїРЅРёР№. Р‘СѓРґСЊ Р»Р°СЃРєР°, Р·Р°РїСѓСЃС‚С–С‚СЊ СЃРµСЂРІРµСЂ С‰Рµ СЂР°Р·. РџРѕРјРёР»РєР°: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101f370e10>: Failed to establish a new connection: [Errno 111] Connection refused'))
-INFO 2019-10-29 22:35:53,385 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:35:53.331
-INFO 2019-10-29 22:35:53,385 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:35:53,386 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:35:53.331
-INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:35:53,386 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:36:53,509 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:36:53.464
-INFO 2019-10-29 22:36:53,509 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:36:53,509 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:36:53.464
-INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:36:53,510 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:37:53,617 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:37:53.574
-INFO 2019-10-29 22:37:53,617 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:37:53,617 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:37:53.574
-INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:37:53,617 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:38:53,725 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:38:53.682
-INFO 2019-10-29 22:38:53,725 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:38:53,725 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:38:53.682
-INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:38:53,725 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:39:53,846 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:39:53.802
-INFO 2019-10-29 22:39:53,847 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:39:53,847 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:39:53.802
-INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:39:53,847 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:40:53,961 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:40:53.919
-INFO 2019-10-29 22:40:53,961 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:40:53,962 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:40:53.919
-INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:40:53,962 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:41:54,081 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:41:54.039
-INFO 2019-10-29 22:41:54,081 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:41:54,081 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:41:54,081 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:41:54.039
-INFO 2019-10-29 22:41:54,082 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:41:54,082 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:41:54,082 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:42:54,194 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:42:54.147
-INFO 2019-10-29 22:42:54,194 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:42:54,194 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:42:54.147
-INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:42:54,194 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:43:54,309 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:43:54.265
-INFO 2019-10-29 22:43:54,309 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:43:54,309 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:43:54,309 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:43:54.265
-INFO 2019-10-29 22:43:54,310 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:43:54,310 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:43:54,310 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:44:54,425 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:44:54.383
-INFO 2019-10-29 22:44:54,425 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:44:54,425 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:44:54.383
-INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:44:54,426 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:45:54,541 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:45:54.497
-INFO 2019-10-29 22:45:54,541 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:45:54,541 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:45:54.497
-INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:45:54,541 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:46:54,657 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:46:54.612
-INFO 2019-10-29 22:46:54,657 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:46:54,657 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:46:54.612
-INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:46:54,657 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
-INFO 2019-10-29 22:47:54,765 root : РЎРµСЂРІРµСЂ РґРѕСЃС‚СѓРїРЅРёР№. Р§Р°СЃ РЅР° СЃРµСЂРІРµСЂС–: 2019-10-29T22:47:54.722
-INFO 2019-10-29 22:47:54,765 root : Р—Р°РїРёС‚СѓРІР°РЅР° СЃС‚РѕСЂС–РЅРєР°: : /health/
-INFO 2019-10-29 22:47:54,765 root : Р’С–РґРїРѕРІС–РґСЊ СЃРµСЂРІРµСЂР° РјС–СЃС‚Рё РЅР°СЃС‚СѓРїРЅС– РїРѕР»СЏ:
-INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: date, Р—РЅР°С‡РµРЅРЅСЏ: 2019-10-29T22:47:54.722
-INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: current_page, Р—РЅР°С‡РµРЅРЅСЏ: /health/
-INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: server_info, Р—РЅР°С‡РµРЅРЅСЏ: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
-INFO 2019-10-29 22:47:54,765 root : РљР»СЋС‡: client_info, Р—РЅР°С‡РµРЅРЅСЏ: python-requests/2.22.0
+ERROR 2019-10-29 22:33:53,179 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101f3700d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+ERROR 2019-10-29 22:34:53,240 root : Сервер недоступний. Будь ласка, запустіть сервер ще раз. Помилка: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f101f370e10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+INFO 2019-10-29 22:35:53,385 root : Сервер доступний. Час на сервері: 2019-10-29T22:35:53.331
+INFO 2019-10-29 22:35:53,385 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:35:53,386 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:35:53,386 root : Ключ: date, Значення: 2019-10-29T22:35:53.331
+INFO 2019-10-29 22:35:53,386 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:35:53,386 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:35:53,386 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:36:53,509 root : Сервер доступний. Час на сервері: 2019-10-29T22:36:53.464
+INFO 2019-10-29 22:36:53,509 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:36:53,509 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:36:53,510 root : Ключ: date, Значення: 2019-10-29T22:36:53.464
+INFO 2019-10-29 22:36:53,510 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:36:53,510 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:36:53,510 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:37:53,617 root : Сервер доступний. Час на сервері: 2019-10-29T22:37:53.574
+INFO 2019-10-29 22:37:53,617 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:37:53,617 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:37:53,617 root : Ключ: date, Значення: 2019-10-29T22:37:53.574
+INFO 2019-10-29 22:37:53,617 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:37:53,617 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:37:53,617 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:38:53,725 root : Сервер доступний. Час на сервері: 2019-10-29T22:38:53.682
+INFO 2019-10-29 22:38:53,725 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:38:53,725 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:38:53,725 root : Ключ: date, Значення: 2019-10-29T22:38:53.682
+INFO 2019-10-29 22:38:53,725 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:38:53,725 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:38:53,725 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:39:53,846 root : Сервер доступний. Час на сервері: 2019-10-29T22:39:53.802
+INFO 2019-10-29 22:39:53,847 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:39:53,847 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:39:53,847 root : Ключ: date, Значення: 2019-10-29T22:39:53.802
+INFO 2019-10-29 22:39:53,847 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:39:53,847 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:39:53,847 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:40:53,961 root : Сервер доступний. Час на сервері: 2019-10-29T22:40:53.919
+INFO 2019-10-29 22:40:53,961 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:40:53,962 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:40:53,962 root : Ключ: date, Значення: 2019-10-29T22:40:53.919
+INFO 2019-10-29 22:40:53,962 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:40:53,962 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:40:53,962 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:41:54,081 root : Сервер доступний. Час на сервері: 2019-10-29T22:41:54.039
+INFO 2019-10-29 22:41:54,081 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:41:54,081 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:41:54,081 root : Ключ: date, Значення: 2019-10-29T22:41:54.039
+INFO 2019-10-29 22:41:54,082 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:41:54,082 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:41:54,082 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:42:54,194 root : Сервер доступний. Час на сервері: 2019-10-29T22:42:54.147
+INFO 2019-10-29 22:42:54,194 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:42:54,194 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:42:54,194 root : Ключ: date, Значення: 2019-10-29T22:42:54.147
+INFO 2019-10-29 22:42:54,194 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:42:54,194 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:42:54,194 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:43:54,309 root : Сервер доступний. Час на сервері: 2019-10-29T22:43:54.265
+INFO 2019-10-29 22:43:54,309 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:43:54,309 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:43:54,309 root : Ключ: date, Значення: 2019-10-29T22:43:54.265
+INFO 2019-10-29 22:43:54,310 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:43:54,310 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:43:54,310 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:44:54,425 root : Сервер доступний. Час на сервері: 2019-10-29T22:44:54.383
+INFO 2019-10-29 22:44:54,425 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:44:54,425 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:44:54,426 root : Ключ: date, Значення: 2019-10-29T22:44:54.383
+INFO 2019-10-29 22:44:54,426 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:44:54,426 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:44:54,426 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:45:54,541 root : Сервер доступний. Час на сервері: 2019-10-29T22:45:54.497
+INFO 2019-10-29 22:45:54,541 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:45:54,541 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:45:54,541 root : Ключ: date, Значення: 2019-10-29T22:45:54.497
+INFO 2019-10-29 22:45:54,541 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:45:54,541 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:45:54,541 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:46:54,657 root : Сервер доступний. Час на сервері: 2019-10-29T22:46:54.612
+INFO 2019-10-29 22:46:54,657 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:46:54,657 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:46:54,657 root : Ключ: date, Значення: 2019-10-29T22:46:54.612
+INFO 2019-10-29 22:46:54,657 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:46:54,657 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:46:54,657 root : Ключ: client_info, Значення: python-requests/2.22.0
+INFO 2019-10-29 22:47:54,765 root : Сервер доступний. Час на сервері: 2019-10-29T22:47:54.722
+INFO 2019-10-29 22:47:54,765 root : Запитувана сторінка: : /health/
+INFO 2019-10-29 22:47:54,765 root : Відповідь сервера місти наступні поля:
+INFO 2019-10-29 22:47:54,765 root : Ключ: date, Значення: 2019-10-29T22:47:54.722
+INFO 2019-10-29 22:47:54,765 root : Ключ: current_page, Значення: /health/
+INFO 2019-10-29 22:47:54,765 root : Ключ: server_info, Значення: {'system': 'Linux', 'version': '#34~18.04.2-Ubuntu SMP Thu Oct 10 10:36:02 UTC 2019', 'release': '5.0.0-32-generic', 'network name': '489f36fa52c2', 'machine': 'x86_64', 'processor': ''}
+INFO 2019-10-29 22:47:54,765 root : Ключ: client_info, Значення: python-requests/2.22.0
