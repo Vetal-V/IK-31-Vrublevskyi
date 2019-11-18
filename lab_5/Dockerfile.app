@@ -18,6 +18,7 @@ COPY my_app/ ./
 
 # Створюємо папку для логів
 RUN mkdir logs
+RUN touch logs/app.log
 
 EXPOSE 5000
 
