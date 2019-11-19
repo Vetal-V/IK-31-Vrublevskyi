@@ -12,7 +12,7 @@ def hits():
     message = 'I have been seen {t} times. My Hostname is: {h} \n'.format(
         t=count, h=socket.gethostname()
     )
-    with open('logs/app.log', 'a') as log:
+    with open('app.log', 'a') as log:
         log.write(message)
     return str(count)
 
