@@ -116,4 +116,22 @@ Docker-compose
 
 2. Створюю `docker-compose.yaml` для лабораторної №4:
 
-    - 
+    - `docker-compose.yaml` створює два імеджі для Django сайту та моніторингу ([docker-compose.yaml](https://github.com/Vetal-V/IK-31-Vrublevskyi/blob/master/lab_4/docker-compose.yaml) файл знаходиться тут);
+    
+    - Запускаю `docker-compose.yaml` командою
+        ```
+        docker-compose -p lab4 up
+        ```
+    - Перевіряю доступність головної сторінки та вкладки `health`:
+    
+    ![image](img/14.png)
+    
+    ![image](img/15.png)
+    
+    - Зупиняю проект, натиснувши `Ctrl+C`, і очищаю ресурси створені компоуз `docker-compose down`. Витягую файл `server.log` з `volume`;
+    
+    - Завантажую створені імеджі до `Docker Hub` репозиторію за допомого команди ([Посилання на Docker Hub репозиторій](https://cloud.docker.com/repository/docker/vetalvr/lab4_devops)):
+         ```
+         docker-compose push
+         ```
+    
