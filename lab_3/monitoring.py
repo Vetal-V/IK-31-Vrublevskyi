@@ -5,7 +5,7 @@ from requests.exceptions import HTTPError
 import time
 
 logging.basicConfig(
-    filename="logs/server.log",
+    filename="server.log",
     filemode='a',
     level=logging.INFO,
     format='{levelname} {asctime} {name} : {message}',
