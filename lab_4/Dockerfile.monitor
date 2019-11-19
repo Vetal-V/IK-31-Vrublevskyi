@@ -22,6 +22,9 @@ RUN cp -r /lab/IK-31-Vrublevskyi/lab_3/* .
 # Інсталюємо всі залежності
 RUN pipenv install
 
+# Створюємо папку для логів
+RUN mkdir logs
+
 # Відкриваємо порт 8000 на зовні
 EXPOSE 8000
 
