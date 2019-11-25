@@ -11,7 +11,7 @@ jobs:
       install:
         - cd ./lab_2/
         - make install
-      script: pipenv run pytest tests/tests.py || true
+      script: make test || true
     - stage: "Build Lab 3."
       name: "Run Djungo Server and test it accessibility. Fail to run and test"
       python: 3.7
