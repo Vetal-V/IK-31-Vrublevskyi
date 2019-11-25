@@ -10,7 +10,7 @@ jobs:
       python: 3.7
       install:
         - cd ./lab_2/
-        - make install
+        - sudo make install
       script: make test || true
     - stage: "Build Lab 3."
       name: "Run Djungo Server and test it accessibility. Fail to run and test"
