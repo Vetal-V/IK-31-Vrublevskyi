@@ -17,7 +17,7 @@ RUN pipenv install -r requirements.txt
 COPY my_app/ ./
 
 # Створюємо папку для логів
-RUN mkdir logs
+RUN mkdir /logs
 RUN touch logs/app.log
 
 EXPOSE 5000
