@@ -10,13 +10,14 @@ jobs:
       python: 3.7
       install:
         - cd ./lab_2/
-        - sudo make install
+        - make install
       script: make test || true
     - stage: "Build Lab 3."
       name: "Run Djungo Server and test it accessibility. Fail to run and test"
       python: 3.7
       install:
         - cd ./lab_3/
+        - chmod +x ./scripts/travis-build.sh
         - pipenv install
       script: ./scripts/travis-build.sh
     - stage: "Build Lab 4."
