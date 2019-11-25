@@ -9,7 +9,6 @@ verify_ssl = true
 requests = "*"
 ntplib = "*"
 pytest = "*"
-unittest = "*"
 
 [requires]
 python_version = "3.7"
